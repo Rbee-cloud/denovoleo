@@ -1,0 +1,48 @@
+Leocyte — Privacy Policy (Template)
+-----------------------------------
+
+[Effective date: YYYY-MM-DD]
+
+1. Introduction
+Leocyte ("we", "us", "our") provides business development and licensing advisory services. This policy describes how we collect, use, share and protect personal data.
+
+2. What we collect
+- Contact details: name, email, phone, employer, job title.
+- Professional information: company, role, registration numbers where required.
+- Transactional data: correspondence, contract records, NDAs and uploaded documents.
+- Usage data: cookies, IP address, anonymized analytics.
+
+3. Why we process personal data (legal bases)
+- Performance of a contract or steps prior to contract (contractual necessity).
+- Legitimate interests (business communications, fraud prevention) balanced against individual rights.
+- Consent (marketing, analytics) where required.
+
+4. How long we keep data
+- Contact and contract records: up to 7 years or as required by law.
+- Uploaded documents: retained for the duration of engagement + legal retention period.
+- Cookies/analytics: per consent settings.
+
+5. International transfers
+We may transfer data outside the country. Where required, we use appropriate safeguards such as SCCs.
+
+6. Data subject rights
+You may request access, correction, deletion, restriction, portability or lodge a complaint. Contact: AlloAllo@leocyte.com (replace with DPO contact).
+
+7. Data security
+We use encryption, access controls and logging. We periodically review security measures.
+
+8. Third-party processors
+We use processors to support operations (cloud hosting, analytics). We maintain DPAs with processors.
+
+9. Cookies and tracking
+Essential cookies required for site operation are used. Optional analytics/marketing cookies are used only with consent.
+
+10. How to contact us
+Data Protection Officer / Privacy contact:
+Email: AlloAllo@leocyte.com
+Address: [Add business address]
+
+11. Changes to this policy
+We will publish updates and note the effective date.
+
+--- End of template. Customize for your jurisdiction and consult legal counsel. ---
